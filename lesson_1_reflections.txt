@@ -1,3 +1,4 @@
+lalala
 How viewing diff is good for knowing bugs/
 1. to compare files line by line is more easy to read
 2. easy to find typo
