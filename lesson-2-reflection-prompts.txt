@@ -20,8 +20,10 @@ let me knows what branches are these commits on and much clear vision for mergin
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-it collect all commit from two branches and do that again to the root node
+it collect all commits from two branches and do that again to the root node
 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+much more faster and work reduction
+conflicts or change not wanted appear
