@@ -1,4 +1,3 @@
-fix name
 When would you want to use a remote repository rather than keeping all your work
 local?
 
@@ -12,7 +11,10 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    depend on situations
+    Fork: base on other projects and create my own features
+    clones : multi-contributor working on same project
+    branch : if these changes i will update to master later
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
